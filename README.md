@@ -1,6 +1,6 @@
 # Glowworm-Swarm-Optimisation
 
-**Basic Explanation and Implementation of GSO algorithm in Python**<br />
+**Detailed Explanation and Implementation of GSO algorithm in Python**<br />
 glowworm.py --- implementation of GSO<br />
 Glowworm Swarm Optimisation.pdf --- report on GSO<br />
 Glowworm Swarm.pptx --- Powerpoint presentation on GSO
